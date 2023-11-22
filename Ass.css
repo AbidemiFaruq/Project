@@ -1,0 +1,27 @@
+form{
+    background: url(img/IMG-20231113-WA0003.jpg);
+    background-size: contain;
+    width: 400px;
+    text-align: center;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: inset 0px 0px 20px red;
+    color: white;
+}
+input{
+    padding: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    outline: none;
+    border-radius: 20px;
+    opacity: 0.4; 
+    border: none;   
+}
+button{
+    border-radius: 20px;
+    width: 60%;
+    border: none;
+    background-color: rgb(255, 228, 192);
+    padding: 7px;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: purple;
+    margin:10px;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    outline: none;
+}
+h1{
+    color: white;
+}
+h2{
+    color: violet;
+}

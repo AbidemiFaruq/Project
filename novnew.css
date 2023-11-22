@@ -1,0 +1,112 @@
+h5{
+    height: 200px;
+    background-image: url(img/IMG-20231116-WA0039.jpg);
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-position:100px;
+    background-size: contain;
+    color: red;
+    text-align: justify;
+}
+h2{
+    padding: 40px 30px 20px 30px;
+    margin: 40px;   
+    border-style: solid;
+
+    border-top: 20px groove gray;
+
+    border-right: none;
+    border-bottom: 20px groove red;
+    border-left: none;
+    
+    border-radius: 50px 0px 50px 0px;
+}
+h6{
+    width: 600px;
+    height: 300px;
+    padding: 0px;
+    margin: 20px 10px 20px 10px;
+    border: 10px  solid orange;
+    border-top: 20px groove black;
+    border-right: 20px groove yellow;
+    border-bottom: 20px groove red;
+    border-left: 20px groove gray;   
+}
+/*input{
+    padding: 20px 40px;
+    border: 5px solid blue;
+    outline: none;
+
+    box-shadow: -20px -20px 10px blue;
+}*/
+
+
+p{
+    background: black;
+    color: rgb(243,124,14);
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    line-height: 50px;
+    text-indent: 10px;
+    text-align: justify;
+
+    
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 20px;
+
+    font-style: normal;
+    font-family: "TimesNew Roman",sans-serif;
+    text-shadow: -20px -20px 15px black;
+    width: fit-content;
+    height: inherit;
+}
+img{
+    width: fit-content;
+    height: 300px;
+    opacity: 0.4;
+}
+a{
+    text-decoration: underline;
+}
+
+
+ul{
+    background: green;
+    color: gold;
+    list-style-type: square;
+    padding-left: 25px;
+}
+a:link{
+    color: gold;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    background: black;
+    color: white;
+}
+form{
+    background-image: url(img/IMG-20231115-WA0008.jpg);
+    background-size: contain;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: inset 0px 0px 20px red;
+}
+input{
+    padding: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    outline: none;
+    border: none;
+    background: rgba( 0,0,233,0.8);
+    
+}
+  
